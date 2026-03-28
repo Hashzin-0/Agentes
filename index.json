@@ -1,6 +1,127 @@
 {
   "type": "agents",
-  "items": [],
   "version": "1.0.0",
-  "lastUpdated": "2026-03-28T06:51:14.269Z"
+  "lastUpdated": "2026-03-28T07:10:00.000Z",
+  "items": [
+    {
+      "name": "backend-specialist",
+      "path": "agents/development/backend-specialist.md",
+      "description": "Expert backend architect for Node.js, Python, and modern serverless/edge systems",
+      "tags": ["backend", "api", "database", "nodejs", "python", "serverless"]
+    },
+    {
+      "name": "frontend-specialist",
+      "path": "agents/development/frontend-specialist.md",
+      "description": "Senior Frontend Architect for React/Next.js with performance-first mindset",
+      "tags": ["frontend", "react", "nextjs", "ui", "ux", "css", "tailwind"]
+    },
+    {
+      "name": "mobile-developer",
+      "path": "agents/development/mobile-developer.md",
+      "description": "Expert in React Native and Flutter mobile development",
+      "tags": ["mobile", "react-native", "flutter", "ios", "android"]
+    },
+    {
+      "name": "game-developer",
+      "path": "agents/development/game-developer.md",
+      "description": "Game development across all platforms (PC, Web, Mobile, VR/AR)",
+      "tags": ["game", "unity", "godot", "unreal", "phaser", "3d", "2d"]
+    },
+    {
+      "name": "code-archaeologist",
+      "path": "agents/architecture/code-archaeologist.md",
+      "description": "Expert in legacy code, refactoring, and understanding undocumented systems",
+      "tags": ["legacy", "refactor", "archaeology", "reverse-engineering"]
+    },
+    {
+      "name": "database-architect",
+      "path": "agents/architecture/database-architect.md",
+      "description": "Expert database architect for schema design, query optimization, migrations",
+      "tags": ["database", "sql", "schema", "migration", "postgres", "index"]
+    },
+    {
+      "name": "explorer-agent",
+      "path": "agents/architecture/explorer-agent.md",
+      "description": "Advanced codebase discovery and deep architectural analysis",
+      "tags": ["explorer", "discovery", "analysis", "research", "mapping"]
+    },
+    {
+      "name": "orchestrator",
+      "path": "agents/architecture/orchestrator.md",
+      "description": "Multi-agent coordination and task orchestration",
+      "tags": ["orchestrator", "coordination", "multi-agent", "planning"]
+    },
+    {
+      "name": "test-engineer",
+      "path": "agents/quality/test-engineer.md",
+      "description": "Expert in testing, TDD, and test automation",
+      "tags": ["test", "tdd", "coverage", "jest", "pytest", "playwright"]
+    },
+    {
+      "name": "qa-automation-engineer",
+      "path": "agents/quality/qa-automation-engineer.md",
+      "description": "Specialist in test automation infrastructure and E2E testing",
+      "tags": ["qa", "e2e", "automation", "playwright", "cypress", "regression"]
+    },
+    {
+      "name": "debugger",
+      "path": "agents/quality/debugger.md",
+      "description": "Expert in systematic debugging, root cause analysis, and crash investigation",
+      "tags": ["debug", "bug", "error", "crash", "investigate", "fix"]
+    },
+    {
+      "name": "security-auditor",
+      "path": "agents/security/security-auditor.md",
+      "description": "Elite cybersecurity expert - OWASP, supply chain security, zero trust",
+      "tags": ["security", "vulnerability", "owasp", "xss", "audit", "pentest"]
+    },
+    {
+      "name": "penetration-tester",
+      "path": "agents/security/penetration-tester.md",
+      "description": "Expert in offensive security and vulnerability exploitation",
+      "tags": ["pentest", "exploit", "attack", "redteam", "offensive"]
+    },
+    {
+      "name": "performance-optimizer",
+      "path": "agents/performance/performance-optimizer.md",
+      "description": "Expert in performance optimization, profiling, Core Web Vitals",
+      "tags": ["performance", "optimize", "speed", "lighthouse", "bundle", "profiling"]
+    },
+    {
+      "name": "devops-engineer",
+      "path": "agents/performance/devops-engineer.md",
+      "description": "Expert in deployment, server management, CI/CD",
+      "tags": ["devops", "deploy", "ci/cd", "server", "pm2", "docker", "kubernetes"]
+    },
+    {
+      "name": "product-manager",
+      "path": "agents/product/product-manager.md",
+      "description": "Expert in product requirements, user stories, and acceptance criteria",
+      "tags": ["product", "requirements", "user-story", "ac", "prd"]
+    },
+    {
+      "name": "product-owner",
+      "path": "agents/product/product-owner.md",
+      "description": "Strategic facilitator bridging business needs and technical execution",
+      "tags": ["product", "owner", "backlog", "mvp", "roadmap", "stakeholder"]
+    },
+    {
+      "name": "project-planner",
+      "path": "agents/product/project-planner.md",
+      "description": "Smart project planning - breaks down tasks, plans file structure",
+      "tags": ["planning", "project", "tasks", "roadmap", "breakdown"]
+    },
+    {
+      "name": "documentation-writer",
+      "path": "agents/product/documentation-writer.md",
+      "description": "Expert in technical documentation - README, API docs, changelog",
+      "tags": ["docs", "documentation", "readme", "api-docs", "changelog"]
+    },
+    {
+      "name": "seo-specialist",
+      "path": "agents/product/seo-specialist.md",
+      "description": "SEO and GEO expert - Core Web Vitals, E-E-A-T optimization",
+      "tags": ["seo", "geo", "optimization", "web-vitals", "search"]
+    }
+  ]
 }
